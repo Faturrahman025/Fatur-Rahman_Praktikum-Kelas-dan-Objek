@@ -1,0 +1,5 @@
+-pilih setup
+-pilih Grassington North Yorkshire_LICENCE.lxk untuk library
+-sebelum proteus dijalankan instal dulu cracknya (LXK Proteus 7.9 SP1 ENG v1.0.0 dengan klik kanan filenya -> pilih run as administrator)
+-jalankan proteus dengan memilih ISIS 7 profesional pada menu program
+-ekxtrak file arduino.rar di folder C:\Program Files\Labcenter Electronics\Proteus 7 Professional\LIBRARY
